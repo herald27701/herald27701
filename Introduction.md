@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @herald27701
-- 👀 I’m interested in back-end engineering
-- 🌱 I’m currently learning C++, Java, Python
-- 💞️ I’m looking for collaboration
-- 📫 How to reach me: https://www.linkedin.com/in/huy-nguyen-quoc-286836216/
