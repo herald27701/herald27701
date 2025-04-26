@@ -1,6 +1,6 @@
 ## My playlist
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214o4gmmzcp53oqukdcphbsmi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214o4gmmzcp53oqukdcphbsmi&redirect=true)
+<h1 align="center">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214o4gmmzcp53oqukdcphbsmi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214o4gmmzcp53oqukdcphbsmi&redirect=true)</h1>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=214o4gmmzcp53oqukdcphbsmi&count=5)
 
