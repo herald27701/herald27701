@@ -13,6 +13,10 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <h3 align="center">Junior Software Developer</h3>
 
+<div align="center">
+  <img src="assets/code_dominator.gif" alt="Code Dominator" width="400"/>
+</div>
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-nguyen-quoc/) [![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:quochuy181013@gmail.com) 
 
