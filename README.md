@@ -1,4 +1,4 @@
-# My playlist
+# 🎧 My playlist
 
 <div align="center">
 
