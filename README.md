@@ -1,15 +1,19 @@
-## My playlist
+# My playlist
+
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214o4gmmzcp53oqukdcphbsmi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214o4gmmzcp53oqukdcphbsmi&redirect=true)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=214o4gmmzcp53oqukdcphbsmi&count=5)
+
+</div>
 
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-nguyen-quoc/) [![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:quochuy181013@gmail.com) 
 
 # 💻 Tech Stack:
