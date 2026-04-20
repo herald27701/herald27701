@@ -14,7 +14,7 @@
 <h3 align="center">Talent Software Developer</h3>
 
 <div align="center">
-  <img src="assets/code_dominator.gif" alt="Code Dominator" width="400"/>
+  <img src="assets/Binary_Scroll.gif" alt="Code Dominator" width="400"/>
 </div>
 
 # 🌐 Socials:
