@@ -11,7 +11,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Talent Software Developer</h3>
 
 <div align="center">
   <img src="assets/code_dominator.gif" alt="Code Dominator" width="400"/>
